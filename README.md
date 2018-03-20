@@ -4,8 +4,11 @@ This chrome extension allows you to go on Yelp conveniently without going on the
 
 <br>
 <div>
+  <p>1.) First, open the chrome-app on your browser.</p>
   <img height="350" width ="500" src="https://github.com/ringoyip0901/Yelp-extension/blob/master/yelp-ex.png" />
+  <p>1.) Then, put down what and where you want to eat!.</p>
   <img height="350" width ="500" float="left" src="https://github.com/ringoyip0901/Yelp-extension/blob/master/yelp-ex-search.png" />
+  <p>1.) There you go, click "I'm starving" and it will lead you to th results!.</p>
   <img height="350" width ="500" float="left" src="https://github.com/ringoyip0901/Yelp-extension/blob/master/yelp-ex-results.png" />
   
 </div>
